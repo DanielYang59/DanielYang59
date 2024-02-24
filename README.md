@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I'm working on computational methods for materials and more
+- 🌱 I'm learning generative machine learning and high-performance computing.
+- ⚡ I'm currently looking for a PhD position (let me know if you are interested in my work).
+
 <!--
 **DanielYang59/DanielYang59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
