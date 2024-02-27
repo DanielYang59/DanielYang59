@@ -2,7 +2,8 @@
 
 - 🔭 I'm working on computational methods for materials and more.
 - 🌱 I'm learning generative machine learning and high-performance computing.
-- ⚡ I'm currently looking for a PhD position (let me know if you are interested in my work).
+- 💬 I'm currently looking for a PhD position (let me know if you are interested in my work).
+- ⚡ Fun fact: I have been and will always be a hardware enthusiast, especially Small Form Factor (SFF) builds.
 
 <!--
 **DanielYang59/DanielYang59** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
